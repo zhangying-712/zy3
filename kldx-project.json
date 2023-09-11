@@ -1,15 +1,4 @@
-node_modules
-
-mini-program
-
-.DS_Store
-.yarn
-.kldx
-.build
-.idea
-.ae
-
-yarn-error.log*
-*-debug.log
-
-output
+{
+	"namespace": "package_41d313__c",
+	"sourceApiVersion": "2.4"
+}
