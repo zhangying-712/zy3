@@ -1,0 +1,17 @@
+{
+  "apiID": "package_41d313__c__function_aade7km2pruaa",
+  "apiName": "go1",
+  "label": {
+    "zh_CN": "go 1",
+    "en_US": "go 1"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
